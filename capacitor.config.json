@@ -1,0 +1,9 @@
+{
+  "appId": "com.k1w1.bolt",
+  "appName": "Bolt DIY",
+  "webDir": "web",
+  "server": {
+    "url": "https://deine-seite.example",
+    "cleartext": true
+  }
+}
